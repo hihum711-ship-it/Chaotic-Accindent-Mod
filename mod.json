@@ -1,0 +1,11 @@
+{
+"displayName": "chaotic-accident-mod",
+"name": "chaotic-accident-mod",
+"author": "Moonmurie",
+"main": "MainCMMod",
+"description": "A Mindustry Java mod template.",
+"version": 1.0,
+"minGameVersion": 154,
+"java": true,
+ "hideBrowser": true
+}
